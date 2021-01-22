@@ -2,20 +2,12 @@ body
 {
     color: #333;
     text-align: center;
-<<<<<<< HEAD
-    font-family: 'Courier New', Courier, monospace;
-=======
     font-family: Arial;
->>>>>>> cabecera
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
 
-<<<<<<< HEAD
-
-
-=======
 #cabecera
 {
     background: #33A;
@@ -32,7 +24,6 @@ body
     font-weight: normal;
     font-size: 0.8em;
 }
->>>>>>> cabecera
 
 #container
 {
